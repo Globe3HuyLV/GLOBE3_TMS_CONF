@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Globe3 TMS Conf</string>
+
+    <string name="label_external">External: </string>
+    <string name="label_internal">Internal: </string>
+    <string name="label_external_server">External Server:</string>
+    <string name="label_internal_server">Internal Server:</string>
+    <string name="label_ok">Ok</string>
+    <string name="label_save">Save</string>
+    <string name="label_login">Login</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_mac_address">MAC Address:</string>
+    <string name="label_request">Request</string>
+    <string name="label_proceed">Proceed</string>
+    <string name="label_deletion">Delete data folders</string>
+
+    <string name="message_testing_connectivity">Testing Connectivity</string>
+    <string name="message_authenticating">Authenticating</string>
+    <string name="message_not_tested">Not Tested</string>
+    <string name="message_connection_failed">Connection Failed</string>
+    <string name="message_connection_success">Connection Success</string>
+    <string name="message_authentication_failed">Authentication Failed</string>
+    <string name="message_webservice_error">Webservice Error</string>
+    <string name="message_loading_configurations">Loading Configurations</string>
+    <string name="message_saving_configurations">Saving Configurations</string>
+    <string name="message_configurations_saved">Configurations Saved</string>
+    <string name="message_login_failed">Login Failed</string>
+    <string name="message_matched">Matched</string>
+    <string name="message_did_not_match">Did not match</string>
+    <string name="message_app_requires_storage_permission">App requires storage permission</string>
+    <string name="message_storage_permission_not_granted">Storage permission not granted</string>
+    <string name="message_confirm_delete_data_folder">Saving configurations will delete the data folder</string>
+
+    <string name="hint_masterfn">masterfn</string>
+    <string name="hint_company">company</string>
+    <string name="hint_userid">user id</string>
+    <string name="hint_password">password</string>
+    <string name="hint_data_source">data source</string>
+    <string name="hint_000">000</string>
+    <string name="hint_0000">0000</string>
+    <string name="hint_url">http://URL</string>
+
+    <string name="m8_company">m8</string>
+    <string name="m8_user">m8</string>
+    <string name="m8_pass">m8tnoG3</string>
+
+    <string name="string_empty"> </string>
+</resources>
